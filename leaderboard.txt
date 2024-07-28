@@ -1,0 +1,4 @@
+Hello,100000
+Tony,98374
+Hi,97742
+Highscore,75544
